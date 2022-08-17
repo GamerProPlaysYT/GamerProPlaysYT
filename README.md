@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grcq
-- 👀 I like to code in Java, JavaScript, and PHP
+- 👀 I like to code in Java, C++, and PHP
 - 🌱 I’m currently learning how to use MongoDB, MySQL, and Redis.
 
 <!---
